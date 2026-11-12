@@ -1,16 +1,26 @@
-# 🚀 Desafios de Projeto - DIO (Digital Innovation One)
+# 📱 Desafio de Projeto: Criar um Wireframe de Média Fidelidade
 
-Repositório dedicado ao armazenamento e documentação dos desafios práticos, exercícios e projetos desenvolvidos durante os bootcamps e cursos da **DIO**.
-
----
-
-## 📂 Projetos e Exercícios
-
-| Projeto / Desafio | Tema / Foco | Pasta / Link |
-| :--- | :--- | :--- |
-| **Wireframe de Média Fidelidade** | UX/UI Design, Arquitetura da Informação | [Acessar Projeto](./wireframe-media-fidelidade) |
+Solução desenvolvida para o desafio prático da **DIO**, com foco na estruturação da experiência do utilizador (UX) e no planeamento visual de uma interface digital.
 
 ---
 
-### ✒️ Autoria
-Desenvolvido por **Marcia**.
+## 🎯 Objetivo
+Projetar um wireframe de média fidelidade para definir o fluxo de navegação, a disposição dos elementos (layout) e a hierarquia da informação de uma aplicação, servindo de base antes da etapa de design visual (UI).
+
+---
+
+## 🛠️ Ferramentas e Conceitos
+* **Prototipagem:** Figma (ou ferramenta utilizada no projeto)
+* **Design:** Arquitetura da Informação, User Flow e Usabilidade
+
+---
+
+## 🚀 O que foi aplicado
+* **Estruturação de Layout:** Organização de cabeçalhos, menus, blocos de conteúdo e botões de ação.
+* **Fluxo de Navegação:** Mapeamento lógico das telas e interações do utilizador.
+* **Média Fidelidade:** Uso de componentes estruturados em escala de cinza para validar a funcionalidade sem distrações estéticas.
+
+---
+
+## 🔗 Links e Entregáveis
+* **Protótipo Interativo:** [Inserir link do Figma aqui, se houver]
