@@ -10,7 +10,6 @@ Projetar um wireframe de média fidelidade para definir o fluxo de navegação, 
 ---
 
 ## 🛠️ Ferramentas e Conceitos
-* **Prototipagem:** Figma (ou ferramenta utilizada no projeto)
 * **Design:** Arquitetura da Informação, User Flow e Usabilidade
 
 ---
@@ -21,6 +20,5 @@ Projetar um wireframe de média fidelidade para definir o fluxo de navegação, 
 * **Média Fidelidade:** Uso de componentes estruturados em escala de cinza para validar a funcionalidade sem distrações estéticas.
 
 ---
-
-## 🔗 Links e Entregáveis
-* **Protótipo Interativo:** [Inserir link do Figma aqui, se houver]
+## 🖼️ Pré-visualização do Wireframe
+![Wireframe de Média Fidelidade](./exemplo.jpeg)
