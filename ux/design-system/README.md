@@ -32,11 +32,6 @@ Estruturar um Design System consistente que sirva como "fonte da verdade" para a
 ---
 
 ## 🖼️ Pré-visualização do Design System
-*(Guarde a imagem que lhe mostrei no seu computador, faça upload dela para esta mesma pasta com o nome `design-system.png` para que ela apareça abaixo)*
-
 ![Design System](./exemplo_2.jpeg)
 
 ---
-
-## 🔗 Links e Entregáveis
-* **Visualização do Projeto (Figma/Adobe XD):** [Insira o link de visualização do seu Figma aqui]
