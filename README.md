@@ -9,8 +9,9 @@ Repositório centralizado com os desafios práticos, exercícios e projetos dese
 | Projeto / Desafio | Foco / Ferramentas | Pasta / Link |
 | :--- | :--- | :--- |
 | **Wireframe de Média Fidelidade** | Arquitetura da Informação, User Flow, Figma | [Acessar Projeto](./ux/wireframe-media-fidelidade) |
+| **Design System** | Guia de Cores, Tipografia, Componentes, Figma | [Acessar Projeto](./ux/design-system) |
 
 ---
 
 ### ✒️ Autoria
-Desenvolvido por **Marcia**.
+Desenvolvido com dedicação por **Marcia**.
