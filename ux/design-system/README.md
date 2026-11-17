@@ -10,7 +10,7 @@ Estruturar um Design System consistente que sirva como "fonte da verdade" para a
 ---
 
 ## 🛠️ Ferramentas e Conceitos
-* **Ferramenta de Design:** Figma /
+* **Ferramenta de Design:** Figma
 * **Conceitos Aplicados:** Tokens de Design, Paleta de Cores, Tipografia, Componentes Reutilizáveis (Buttons, Inputs, Cards) e Documentação de Estados.
 
 ---
